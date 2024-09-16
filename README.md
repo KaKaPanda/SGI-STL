@@ -1,2 +1,2 @@
 # SGI-STL
-SGI-STL source code analysis and note, under the hood of masterpiece.
+SGI-STL (Silicon Graphics Computer Systems, Inc.) source code analysis and note.
